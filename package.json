@@ -1,7 +1,7 @@
 {
   "name": "grunt-git-changelog-generator",
   "description": "Generate markdown changelog from git log messages and tags",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "homepage": "https://github.com/opentable/grunt-git-changelog-generator",
   "repository": {
     "type": "git",
